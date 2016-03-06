@@ -1,10 +1,10 @@
-var variabl = 0
+var testvar = 0
 
 var write = function(text) {
     console.log(text);
 };
 
-var alert = function(text) {
+var notify = function(text) {
     alert(text);
 };
 
@@ -16,10 +16,15 @@ var today = function() {
     Date();
 };
 
-var increaseVarUntil = function(condition, variable) {
+var increaseVarUntil = function(variable, condition) {
     while(condition = false) {
         variable++;
     }
 };
-increaseVarUntil(variabl = 3, variabl);
-write(variabl);
+
+var repeat = function(numTimes, {code}) {
+    var Times = 0;
+    do {
+        code;
+    } while (Times < numTimes);
+};
