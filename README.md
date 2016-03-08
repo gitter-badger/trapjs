@@ -1,4 +1,6 @@
 # trapjs
+
+[![Join the chat at https://gitter.im/bjskistad/trapjs](https://badges.gitter.im/bjskistad/trapjs.svg)](https://gitter.im/bjskistad/trapjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Trap.js is a new language made by Baran Skistad! It's primary function is to make JavaScript  overall easier to understand,
 and to not get into a 'Trap' while coding! Trap.js is an open-sourced function library. It isn't a real language, more like
 Node.js.
