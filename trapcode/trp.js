@@ -22,7 +22,7 @@ var increaseVarUntil = function(variable, condition) {
     }
 };
 
-var repeat = function(numTimes, {code}) {
+var repeat = function(numTimes, code) {
     var Times = 0;
     do {
         code;
